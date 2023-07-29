@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Umang Raj
 - 👀 I’m interested in C++, DSA, Full stack Web Devlopment.
 - 🌱 I’m currently learning Python with machine learning.
-- 💞️ I’m looking to collaborate onto 
 - 📫 Contact through my Linkedin Profile: https://www.linkedin.com/in/umang-raj-bb90a2124/
 
 <!---
