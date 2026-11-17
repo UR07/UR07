@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="166" viewBox="0 0 1200 166" role="img" aria-labelledby="title desc">
+  <title id="title">Open Mayors BDD Automation</title>
+  <desc id="desc">Gherkin scenarios | Cucumber | JUnit</desc>
+  <defs>
+    <linearGradient id="surface" x2="1" y2="1"><stop stop-color="#101b16"/><stop offset="1" stop-color="#0d1117"/></linearGradient>
+    <linearGradient id="panel" x2="0" y2="1"><stop stop-color="#1c3428"/><stop offset="1" stop-color="#122019"/></linearGradient>
+    <radialGradient id="wash"><stop stop-color="#244b36" stop-opacity=".65"/><stop offset="1" stop-color="#244b36" stop-opacity="0"/></radialGradient>
+  </defs>
+  <style>text { font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif; }</style>
+  <rect x="1" y="1" width="1198" height="164" rx="18" fill="url(#surface)" stroke="#2b4033"/>
+  <text x="36" y="69" font-size="49" font-weight="650" fill="#edf5f0" letter-spacing="-1">Mayors BDD Automation</text><text x="38" y="122" font-size="27" font-weight="400" fill="#a4b9ac" >Gherkin scenarios | Cucumber | JUnit</text><g transform="translate(1060 42) scale(0.296875)" fill="#48d99a"><path d="M232,64a32,32,0,1,0-40,31v17a8,8,0,0,1-8,8H96a23.84,23.84,0,0,0-8,1.38V95a32,32,0,1,0-16,0v66a32,32,0,1,0,16,0V144a8,8,0,0,1,8-8h88a24,24,0,0,0,24-24V95A32.06,32.06,0,0,0,232,64ZM64,64A16,16,0,1,1,80,80,16,16,0,0,1,64,64ZM96,192a16,16,0,1,1-16-16A16,16,0,0,1,96,192ZM200,80a16,16,0,1,1,16-16A16,16,0,0,1,200,80Z"/></g>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="264" viewBox="0 0 1200 264" role="img" aria-labelledby="title desc">
+  <title id="title">Open AI Test Failure Triage</title>
+  <desc id="desc">A local QE prototype that reads test logs and JUnit XML and suggests investigation steps. Evaluated on synthetic examples.</desc>
+  <defs>
+    <linearGradient id="surface" x2="1" y2="1"><stop stop-color="#101b16"/><stop offset="1" stop-color="#0d1117"/></linearGradient>
+    <linearGradient id="panel" x2="0" y2="1"><stop stop-color="#1c3428"/><stop offset="1" stop-color="#122019"/></linearGradient>
+    <radialGradient id="wash"><stop stop-color="#244b36" stop-opacity=".65"/><stop offset="1" stop-color="#244b36" stop-opacity="0"/></radialGradient>
+  </defs>
+  <style>text { font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif; }</style>
+  <rect x="1" y="1" width="1198" height="262" rx="18" fill="url(#surface)" stroke="#2b4033"/>
+  <ellipse cx="990" cy="145" rx="260" ry="140" fill="url(#wash)"/><text x="36" y="49" font-size="20" font-weight="600" fill="#48d99a" letter-spacing="1.5">AI FOR QE / LOCAL PROTOTYPE</text><text x="34" y="116" font-size="58" font-weight="650" fill="#edf5f0" letter-spacing="-1">AI Test Failure Triage</text><text x="38" y="186" font-size="30" font-weight="400" fill="#a4b9ac" >Test logs + JUnit XML</text><g transform="translate(425 153) scale(0.1640625)" fill="#48d99a"><path d="M200,64V168a8,8,0,0,1-16,0V83.31L69.66,197.66a8,8,0,0,1-11.32-11.32L172.69,72H88a8,8,0,0,1,0-16H192A8,8,0,0,1,200,64Z"/></g><text x="496" y="186" font-size="30" font-weight="400" fill="#a4b9ac" >Evidence + next check</text><g transform="translate(1060 76) scale(0.375)" fill="#48d99a"><path d="M237.66,86.34l-60-60a8,8,0,0,0-11.32,0L37.11,155.57a44.77,44.77,0,0,0,63.32,63.32L212.32,107l22.21-7.4a8,8,0,0,0,3.13-13.25ZM89.11,207.57a28.77,28.77,0,0,1-40.68-40.68l28.8-28.8c8.47-2.9,21.75-4,39.07,5,10.6,5.54,20.18,8,28.56,8.73ZM205.47,92.41a8,8,0,0,0-3.13,1.93l-39.57,39.57c-8.47,2.9-21.75,4-39.07-5-10.6-5.54-20.18-8-28.56-8.73L172,43.31,217.19,88.5Z"/></g><path d="M38 231h1124" stroke="#2b4937"/>
+</svg>

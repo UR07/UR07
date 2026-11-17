@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-labelledby="title desc">
+  <title id="title">Umang Raj | Quality Engineer &amp; SDET</title>
+  <desc id="desc">Quality in every layer. A testing workflow connects interfaces, APIs, databases and logs. Its subtle signals are static when reduced motion is preferred.</desc>
+  <defs>
+    <linearGradient id="surface" x2="1" y2="1"><stop stop-color="#101b16"/><stop offset="1" stop-color="#0d1117"/></linearGradient>
+    <linearGradient id="panel" x2="0" y2="1"><stop stop-color="#1c3428"/><stop offset="1" stop-color="#122019"/></linearGradient>
+    <radialGradient id="wash"><stop stop-color="#244b36" stop-opacity=".65"/><stop offset="1" stop-color="#244b36" stop-opacity="0"/></radialGradient>
+  </defs>
+  <style>text { font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif; }
+      @media (prefers-reduced-motion: no-preference) {
+        .flow-signal { animation: signal 8s ease-in-out infinite; }
+        .flow-signal:nth-of-type(2) { animation-delay: -2s; }
+        .flow-signal:nth-of-type(3) { animation-delay: -4s; }
+        .flow-signal:nth-of-type(4) { animation-delay: -6s; }
+        @keyframes signal { 0%, 100% { opacity: .3; } 35%, 60% { opacity: 1; } }
+      }
+    </style>
+  <rect x="1" y="1" width="1278" height="418" rx="18" fill="url(#surface)" stroke="#2b4033"/>
+  <ellipse cx="980" cy="220" rx="300" ry="205" fill="url(#wash)"/><text x="52" y="64" font-size="19" font-weight="600" fill="#48d99a" letter-spacing="2">UMANG RAJ / QUALITY ENGINEER &amp; SDET</text><text x="48" y="172" font-size="83" font-weight="700" fill="#edf5f0" letter-spacing="-3">Quality in</text><text x="48" y="265" font-size="83" font-weight="700" fill="#48d99a" letter-spacing="-3">every layer.</text><text x="52" y="337" font-size="26" font-weight="400" fill="#a4b9ac" >Automation. Investigation. Evidence.</text><path d="M790 130 960 225 1120 130M790 320 960 225 1120 320" fill="none" stroke="#395a46" stroke-width="2"/><circle cx="960" cy="232" r="73" fill="#070e0a" opacity=".5"/><circle cx="960" cy="225" r="73" fill="url(#panel)" stroke="#48d99a" stroke-width="1.5"/><text x="960" y="237" font-size="43" font-weight="650" fill="#48d99a" text-anchor="middle">QE</text><rect x="732.0" y="108" width="116" height="58" rx="12" fill="#070e0a" opacity=".5"/>
+      <rect x="732.0" y="101" width="116" height="58" rx="12" fill="url(#panel)" stroke="#426b51"/>
+      <text x="790" y="138" font-size="24" font-weight="600" fill="#edf5f0" text-anchor="middle">UI</text><rect x="1062.0" y="108" width="116" height="58" rx="12" fill="#070e0a" opacity=".5"/>
+      <rect x="1062.0" y="101" width="116" height="58" rx="12" fill="url(#panel)" stroke="#426b51"/>
+      <text x="1120" y="138" font-size="24" font-weight="600" fill="#edf5f0" text-anchor="middle">API</text><rect x="709.0" y="298" width="162" height="58" rx="12" fill="#070e0a" opacity=".5"/>
+      <rect x="709.0" y="291" width="162" height="58" rx="12" fill="url(#panel)" stroke="#426b51"/>
+      <text x="790" y="328" font-size="24" font-weight="600" fill="#edf5f0" text-anchor="middle">DATABASE</text><rect x="1062.0" y="298" width="116" height="58" rx="12" fill="#070e0a" opacity=".5"/>
+      <rect x="1062.0" y="291" width="116" height="58" rx="12" fill="url(#panel)" stroke="#426b51"/>
+      <text x="1120" y="328" font-size="24" font-weight="600" fill="#edf5f0" text-anchor="middle">LOGS</text><circle class="flow-signal" cx="875" cy="177" r="5" fill="#48d99a"/><circle class="flow-signal" cx="1040" cy="177" r="5" fill="#48d99a"/><circle class="flow-signal" cx="875" cy="272" r="5" fill="#48d99a"/><circle class="flow-signal" cx="1040" cy="272" r="5" fill="#48d99a"/>
+</svg>
