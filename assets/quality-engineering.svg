@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300" role="img" aria-labelledby="title desc">
+  <title id="title">Umang Raj — Quality Engineer and SDET</title>
+  <desc id="desc">Quality in every layer. A connected testing flow from UI to APIs, databases and logs.</desc>
+  <defs>
+    <radialGradient id="glow" cx="90%" cy="25%" r="85%">
+      <stop offset="0" stop-color="#153a2c"/>
+      <stop offset="1" stop-color="#0d1117"/>
+    </radialGradient>
+    <linearGradient id="line">
+      <stop stop-color="#48d99a" stop-opacity=".1"/>
+      <stop offset=".5" stop-color="#48d99a"/>
+      <stop offset="1" stop-color="#48d99a" stop-opacity=".1"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="300" rx="16" fill="#0d1117"/>
+  <rect x="1" y="1" width="1278" height="298" rx="15" fill="url(#glow)" stroke="#28352f"/>
+  <path d="M640 1v298M800 1v298M960 1v298M1120 1v298M640 75h638M640 150h638M640 225h638" stroke="#48d99a" stroke-opacity=".045"/>
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">
+    <text x="48" y="47" fill="#48d99a" font-size="13" font-weight="600" letter-spacing="3">UMANG RAJ / QE &amp; SDET</text>
+    <text x="46" y="125" fill="#f0f6fc" font-size="58" font-weight="700" letter-spacing="-2">Quality in</text>
+    <text x="46" y="190" fill="#48d99a" font-size="58" font-weight="700" letter-spacing="-2">every layer.</text>
+    <text x="49" y="246" fill="#a4b4ab" font-size="15" letter-spacing=".5">Automation. Investigation. Evidence.</text>
+    <text x="702" y="93" fill="#8fa99a" font-size="12" font-weight="600" letter-spacing="2">CONNECTED TESTING</text>
+    <path d="M700 159h490" stroke="url(#line)" stroke-width="2"/>
+    <g fill="#111d17" stroke="#385a47">
+      <rect x="702" y="133" width="96" height="52" rx="8"/>
+      <rect x="828" y="133" width="96" height="52" rx="8"/>
+      <rect x="954" y="133" width="96" height="52" rx="8"/>
+      <rect x="1080" y="133" width="96" height="52" rx="8"/>
+    </g>
+    <g fill="#e7f5ed" font-size="16" font-weight="600" text-anchor="middle">
+      <text x="750" y="165">UI</text>
+      <text x="876" y="165">API</text>
+      <text x="1002" y="165">DATA</text>
+      <text x="1128" y="165">LOGS</text>
+    </g>
+    <g fill="#48d99a">
+      <circle cx="813" cy="159" r="3"/>
+      <circle cx="939" cy="159" r="3"/>
+      <circle cx="1065" cy="159" r="3"/>
+    </g>
+    <text x="702" y="225" fill="#a4b4ab" font-size="15">From the interface to the evidence.</text>
+  </g>
+</svg>
